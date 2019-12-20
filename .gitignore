@@ -131,6 +131,3 @@ dmypy.json
 # Mac directory files
 .DS_Store
 */.DS_Store
-
-# Jupyter
-*.ipyb
